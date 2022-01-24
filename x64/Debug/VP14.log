@@ -1,0 +1,4 @@
+﻿  VP14.cpp
+C:\Users\Ren\Desktop\Лабы\Введение в программирование\VP14\VP14.cpp(67,96): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Ren\Desktop\Лабы\Введение в программирование\VP14\VP14.cpp(67,93): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  VP14.vcxproj -> C:\Users\Ren\Desktop\Лабы\Введение в программирование\VP14\x64\Debug\VP14.exe
